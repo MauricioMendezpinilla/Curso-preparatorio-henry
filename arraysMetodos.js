@@ -9,12 +9,12 @@
 // var incluyeDali = pintores.includes('velazquez');
 // console.log (incluyeDali);
 
-var numeros =[10,2,8,9];
-var cumplenCondicion = numeros.every((num) => {
-    return num >5;
-});
+// var numeros =[10,2,8,9];
+// var cumplenCondicion = numeros.every((num) => {
+//     return num >5;
+// });
 
-console.log(cumplenCondicion);
+// console.log(cumplenCondicion);
 
 // var palabra ='Henri';
 // var palabraSeparada = palabra.split('');
